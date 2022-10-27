@@ -22,4 +22,9 @@ app.get('/books/:id', (req, res) => {
     res.send(selectedNews);
 });
 
+app.get('/checked', (req, res) =>{
+    res.send(books);
+});
+
+
 
