@@ -1,0 +1,46 @@
+
+
+[
+    {
+      "_id": "1208etfrewsc404fbd153e4t6u8i9p6a",
+      "category_id": "01",
+      "title": "System Analysis and Design",
+      "image_url": "https://m.media-amazon.com/images/I/51jlahAAFnL._SX598_BO1,204,203,200_.jpg",
+      "details": "System analysis and design is a process that many companies use to evaluate particular business situations and develop ways to improve them through more optimal methods."
+    },
+    {
+      "_id": "1208e0e58a5c404wdqwedq13456921508",
+      "category_id": "02",
+      "title": "Artificial Intelligence",
+      "image_url": "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-030-72357-6",
+      "details": "Artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings."
+    },
+    {
+      "_id": "1208e0e0033939rc2dfw11e4rs37u965498",
+      "category_id": "03",
+      "title": "Electrical Engineering",
+      "image_url": "https://learning.oreilly.com/library/cover/9781439898079/250w/",
+      "details": "Engineering involves the application of the principles of science and mathematics to solve real world problems and to innovate new products and processes across a wide range of industries and applications."
+    },
+    {
+      "_id": "1208e0e58ascnbvnmxbcvisdgr5634092165",
+      "category_id": "04",
+      "title": "Object-Oriented Programming in C++",
+      "image_url": "https://m.media-amazon.com/images/I/81omg4hWx8L.jpg",
+      "details": "Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. "
+    },
+    {
+      "_id": "1208e0e58adshfjhfd09s8f045432098710",
+      "category_id": "05",
+      "title": "Web Technology",
+      "image_url": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1563294897l/51607981.jpg",
+      "details": "Web Technology refers to the various tools and techniques that are utilized in the process of communication between different types of devices over the internet."
+    },
+    {
+      "_id": "1208e0e5dvspwoqdnqb2ew7810e784201638h",
+      "category_id": "06",
+      "title": "Operating System",
+      "image_url": "https://static.kopykitab.com/image/cache/data/schand-publishing/schand0708-300x380.jpg",
+      "details": "An Operating System (OS) is a software that acts as an interface between computer hardware components and the user."
+    }
+]
