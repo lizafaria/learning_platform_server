@@ -12,4 +12,14 @@ app.get("/", (req, res) => {
   res.send("this is running on server");
 });
 
+app.get('/books', (req, res) =>{
+    res.send(books);
+});
+
+app.get('/books/:id', (req, res) => {
+    const id = req.params.id;
+    const selectedNews = books.find(f => f._id === id);
+    res.send(selectedNews);
+});
+
 
