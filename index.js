@@ -32,5 +32,10 @@ app.get('/checked/:id', (req, res)=>{
     res.send(selectedNews);
 })
 
-
+app.listen(Port, () => {
+    console.log("first", Port);
+  });
+  
+  module.exports=app;
+  
 
